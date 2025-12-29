@@ -1,0 +1,8 @@
+{
+  "name": "Sentinel AI Security",
+  "description": "An AI-powered home security system that uses Gemini vision to detect intruders, trigger alarms, and log captures to Firebase.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
